@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Map Fragment</string>
+    <string name="hello_blank_fragment">Hello fragment</string>
+</resources>
